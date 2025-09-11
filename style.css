@@ -180,10 +180,9 @@ footer {
  margin-bottom: 10px;
 }
 
-/* Para pantallas móviles */
-@media (max-width: 400px) {
-  .card:nth-child(4) .btn {
-    margin-top: 12px; 
-    margin-bottom: 12px; 
+@media (max-width: 600px) {
+  .btn-clase4 {
+    margin-top: 12px;
+    margin-bottom: 12px;
   }
 }
